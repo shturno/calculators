@@ -19,7 +19,7 @@ class Calculator2:
         
     def __validate_body(self, body: Dict) -> List[float]:
         if "numbers" not in body:
-            raise HttpUnprocessableEntity("Invalid body")
+            raise HttpUnprocessableEntityError("Invalid body")
         
         input_data = body["numbers"]
         return input_data
