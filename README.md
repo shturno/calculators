@@ -28,7 +28,10 @@ The server will be available at http://localhost:3000
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes or feature requests, please open an issue first.
 
+## Author
+@shturno
+
 ## Contact
-For any questions or suggestions, please reach out via [gabrielasalvarenga2@gmail.com](mailto:gabrielasalvarenga2@gmail.com).
+For any questions or suggestions, please reach out via [email](mailto:gabriel.dsalvarenga@gmail.com)
 
 
